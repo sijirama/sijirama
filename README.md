@@ -1,4 +1,4 @@
- ## Hi, I’m OLuwasijibomi.
+ ## Hi, I’m Oluwasijibomi.
  ### I’m interested in software Development
 
 
