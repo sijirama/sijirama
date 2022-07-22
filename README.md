@@ -1,5 +1,5 @@
-- ## Hi, I’m @Imnaseli
-- ### I’m interested in software Development
+ ## Hi, I’m @Imnaseli
+ ### I’m interested in software Development
 
 
 <!---
