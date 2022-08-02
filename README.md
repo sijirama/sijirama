@@ -3,7 +3,7 @@
 
 ##
 
-<img src="https://i.pinimg.com/564x/91/0b/e1/910be13674c79ffc837a8d89747cd295.jpg">
+<img src="https://i.pinimg.com/564x/aa/f6/18/aaf618a69563b74705b73b7b8f5e1ab9.jpg">
 
 ##
  ## Hi, I’m Oluwasijibomi.
