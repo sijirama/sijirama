@@ -2,11 +2,12 @@
 
 
 ##
-
+<style>
+ </style>
 <img src="https://i.pinimg.com/564x/aa/f6/18/aaf618a69563b74705b73b7b8f5e1ab9.jpg">
 
 ##
- ## Hi, I’m Oluwasijibomi.
+
 
 <!---
 Imnaseli/Imnaseli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
