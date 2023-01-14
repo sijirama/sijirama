@@ -1,5 +1,5 @@
 <div align="center">
-  <!--- Inspired from janleigh and owl4ce's readmes!! --->
+  <!--- Inspired from janleigh and  readmes!! --->
   <samp>
     welcome.<br/>
     <a href="https://www.linkedin.com/in/oluwasijibomi-ilesanmi-8504b123a/">linkedin</a> •
