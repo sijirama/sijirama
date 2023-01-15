@@ -7,6 +7,9 @@
     <a href="mailto:gbemilesanmi@gmail.com">mail</a><br>
   </samp>
   <br>
+
+![siji GitHub stats](https://github-readme-stats-n5x2-imnaseli.vercel.app/api?username=imnaseli&hide=contribs,prs)
+
   <details><summary><samp>stats</samp></summary><br>
     <table>
       <tr>
