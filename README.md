@@ -1,7 +1,7 @@
 <div align="center">
   <!--- Inspired from janleigh readmes!! --->
   <samp>
-    welcome.<br/>
+    hey.<br/>
     <a href="https://www.linkedin.com/in/oluwasijibomi-ilesanmi-8504b123a/">linkedin</a> •
     <a href="https://discord.com/users/529714655333974025">discord</a> •
     <a href="mailto:gbemilesanmi@gmail.com">mail</a><br>
