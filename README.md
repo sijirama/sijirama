@@ -6,17 +6,9 @@
     <a href="mailto:gbemilesanmi@gmail.com">mail</a><br>
 
   </samp>
-  
-      
-    [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
-    
-    [![wakatime](https://wakatime.com/badge/user/5853dff2-2b5d-4627-8bb6-43b3464677d9.svg)](https://wakatime.com/@5853dff2-2b5d-4627-8bb6-43b3464677d9)
-  
+   
   <br>
-
-
   <details><summary><samp>stats</samp></summary><br>
-    
     <table>
       <tr>
         <th><img src="https://github-readme-stats.vercel.app/api?username=sijirama&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000"/><br></th>
