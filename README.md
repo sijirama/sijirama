@@ -4,10 +4,14 @@
     <a href="https://www.linkedin.com/in/oluwasijibomi-ilesanmi-8504b123a/">linkedin</a> •
     <a href="https://discord.com/users/529714655333974025">discord</a> •
     <a href="mailto:gbemilesanmi@gmail.com">mail</a><br>
-    
-    [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
-    [![wakatime](https://wakatime.com/badge/user/5853dff2-2b5d-4627-8bb6-43b3464677d9.svg)](https://wakatime.com/@5853dff2-2b5d-4627-8bb6-43b3464677d9)
+
   </samp>
+  
+      
+    [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+    
+    [![wakatime](https://wakatime.com/badge/user/5853dff2-2b5d-4627-8bb6-43b3464677d9.svg)](https://wakatime.com/@5853dff2-2b5d-4627-8bb6-43b3464677d9)
+  
   <br>
 
 
