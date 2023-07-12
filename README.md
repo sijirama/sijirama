@@ -22,10 +22,10 @@
 </div>
 -->
 
-### Recently I'm coding in...
+### Recently I've been coding in...
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijirama&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=c%2B%2B,dart,html,css,javascript,shell" alt="top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijirama&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=c%2B%2B,dart,html,css,shell,jupyter%20Notebook,Cython,Perl,html,shell,Handlebars" alt="top languages"/>
   </a>
 </p>
