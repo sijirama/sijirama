@@ -1,3 +1,4 @@
+<!---
 <div align="center">
   <samp>
     hey.<br/>
@@ -19,6 +20,8 @@
   </details>
 
 </div>
+-->
+
 ### Recently I'm coding in...
 
 <p align="center">
