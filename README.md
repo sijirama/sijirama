@@ -10,7 +10,7 @@
 -->
 ## Oluwasijibomi.
 #### Software Engineering.
-As a Software Engineer, I believe my skills are a divine gift, and I'm grateful for the unwavering support of my loving family and friends on this journey. My life's mission is to harness these talents in service to society. I'm deeply motivated to craft software solutions and engage in research that holds the promise of a brighter future for all. With an unyielding commitment to delivering innovation consistently, my aim is to contribute positively to our world.
+As a Software Engineer, I'm on an exciting journey, just beginning but destined for greatness. My skills, a divine gift, are supported by my loving family and friends. I'm passionate about crafting innovative software solutions and conducting research for a brighter future. With a strong commitment to excellence, I aim to make a positive impact on our world.
 
 <!--
 <img src="https://wakatime.com/badge/user/5853dff2-2b5d-4627-8bb6-43b3464677d9.svg" alt="top languages"/>
