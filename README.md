@@ -7,11 +7,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijirama&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=dart,html,css,shell,jupyter%20Notebook,Cython,Perl,Handlebars" alt="top languages"/>
   </a> 
 </p>
--->
-### Oluwasijibomi.
 ##### Software Engineer.
-As a Software Engineer, I view my skills as a divine gift, and I'm grateful for the loving support of my family and friends. My passion lies in creating cutting-edge software solutions and exploring research for a brighter tomorrow. With unwavering commitment to excellence, I aim to leave a positive mark on our world.
-
+-->
+In the world of software engineering, I treasure my skills as a divine gift. With unwavering support from my loved ones, I'm passionate about creating innovative software solutions and researching for a brighter future. Committed to excellence, I aim to make a positive impact on our world.
 <!--
 <img src="https://wakatime.com/badge/user/5853dff2-2b5d-4627-8bb6-43b3464677d9.svg" alt="top languages"/>
 -->
