@@ -9,7 +9,7 @@
 </p>
 -->
 ## Oluwasijibomi.
-#### Software Engineering student
+#### Software Engineering.
 As a Software Engineer, I believe my skills are a divine gift, and I'm grateful for the unwavering support of my loving family and friends on this journey. My life's mission is to harness these talents in service to society. I'm deeply motivated to craft software solutions and engage in research that holds the promise of a brighter future for all. With an unyielding commitment to delivering innovation consistently, my aim is to contribute positively to our world.
 
 <!--
