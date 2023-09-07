@@ -8,9 +8,9 @@
   </a> 
 </p>
 -->
-## Oluwasijibomi.
-#### Software Engineering.
-As a Software Engineer, I'm on an exciting journey, just beginning but destined for greatness. My skills, a divine gift, are supported by my loving family and friends. I'm passionate about crafting innovative software solutions and conducting research for a brighter future. With a strong commitment to excellence, I aim to make a positive impact on our world.
+### Oluwasijibomi.
+##### Software Engineer.
+As a Software Engineer, I view my skills as a divine gift, and I'm grateful for the loving support of my family and friends. My passion lies in creating cutting-edge software solutions and exploring research for a brighter tomorrow. With unwavering commitment to excellence, I aim to leave a positive mark on our world.
 
 <!--
 <img src="https://wakatime.com/badge/user/5853dff2-2b5d-4627-8bb6-43b3464677d9.svg" alt="top languages"/>
