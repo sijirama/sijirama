@@ -8,8 +8,7 @@
   </a> 
 </p>
 -->
-### Software Engineer.
-I value my software engineering skills as a divine blessing. Supported by my loved ones, I'm passionate about harnessing these talents to craft innovative software solutions and conduct research for a brighter future.  my goal is to make a positive impact on our world.
+##### i literally do whatever i want to do.
 <!--
 <img src="https://wakatime.com/badge/user/5853dff2-2b5d-4627-8bb6-43b3464677d9.svg" alt="top languages"/>
 -->
