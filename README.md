@@ -1,5 +1,4 @@
-## sijiramakun.
-#### Software Engineer.
+##### Software Engineer.
 
 It might seem like I'm all over the place, building all sorts of applications, but I'm gradually working towards achieving my dream of someday working on technology and software that will actually help people and transform lives.
 
